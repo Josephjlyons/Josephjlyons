@@ -1,6 +1,6 @@
 ## Hello, I'm Joseph J Lyons
 
-### Currently I am enrolled in UNH's Coding and Programming Bootcamp and what a journey it has been so far! Feel free to perouse my repositories... any feedback is appreciated. Good? Bad? I am all ears to keep progressing and improving my methods.
+### Currently I am enrolled in UNH's Coding and Programming Bootcamp. Feel free to perouse my repositories... any feedback is appreciated. Good? Bad? I am all ears to keep progressing and improving my methods.
 
 ### Want to reach me?
 * [Email](mailto:josephjlyons90@gmail.com)
