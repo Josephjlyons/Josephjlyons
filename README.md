@@ -3,8 +3,8 @@
 ### Currently I am enrolled in UNH's Coding and Programming Bootcamp and what a journey it has been so far! Feel free to perouse my repositories... any feedback is appreciated. Good? Bad? I am all ears to keep progressing and improving my methods.
 
 ### Want to reach me?
-* Email: josephjlyons90@gmail.com
-* LinkedIn: www.linkedin.com/in/joseph-lyons-0a2630200/
+* [Email](mailto:josephjlyons90@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/joseph-lyons-0a2630200/)
 * [Portfolio](https://josephjlyons.github.io/Responsive-Portfolio/)
 
 
