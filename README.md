@@ -5,7 +5,7 @@
 ### Want to reach me?
 * Email: josephjlyons90@gmail.com
 * LinkedIn: www.linkedin.com/in/joseph-lyons-0a2630200/
-* Twitter: https://twitter.com/Lyon_Joseph3
+
 
 
 
