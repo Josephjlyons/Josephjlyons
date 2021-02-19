@@ -1,8 +1,7 @@
-<link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap" rel="stylesheet">
 
 
-***<h1  style="color: red; font-family: 'Libre Baskerville', serif; font-size: 50px " align="center"> Joseph J Lyons</h1>***
+
+***<h1 align="center" color="red"> Joseph J Lyons </h1>***
 
 
 <h2 align="center"> Currently I am enrolled in UNHs Coding and Programming Bootcamp, which means I am currently working on a lot of things in this fast paced learning environtment. Feel free to perouse my repositories... any feedback is appreciated. Looking to improve everyday and keep progressing forward! </h2> <br>
