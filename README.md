@@ -14,10 +14,10 @@
  [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][2] <br><br>
 
 </h3>
-
+[My Porfolio](https://josephjlyons.github.io/Responsive-Portfolio/)
 [1]: mailto:josephjlyons90@gmail.com
 [2]: https://www.linkedin.com/in/joseph-lyons-0a2630200/
-[My Porfolio](https://josephjlyons.github.io/Responsive-Portfolio/)
+
 <!--
 **Josephjlyons/Josephjlyons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
