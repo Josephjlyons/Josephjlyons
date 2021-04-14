@@ -17,7 +17,7 @@
 
 [1]: mailto:josephjlyons90@gmail.com
 [2]: https://www.linkedin.com/in/joseph-lyons-0a2630200/
-[My Porfolio](https://josephjlyons.github.io/Responsive-Portfolio/)
+[Portfolio](https://josephjlyons.github.io/Responsive-Portfolio/)
 
 <!--
 **Josephjlyons/Josephjlyons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
