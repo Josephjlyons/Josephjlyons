@@ -17,6 +17,9 @@
 
 [1]: mailto:josephjlyons90@gmail.com
 [2]: https://www.linkedin.com/in/joseph-lyons-0a2630200/
+
+<h3> View My Work! </h3>
+
 [My Portfolio](https://josephjlyons.github.io/Responsive-Portfolio/)
 
 <!--
