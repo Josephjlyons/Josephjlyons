@@ -16,7 +16,7 @@
 </h3>
 
 [1]: mailto:josephjlyons90@gmail.com
-[2]: www.linkedin.com/in/josephlyons1990
+[2]: https://www.linkedin.com/in/josephlyons1990
 
 
 <h3> View My Work! </h3>
