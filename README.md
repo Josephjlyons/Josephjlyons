@@ -19,9 +19,8 @@
 [2]: https://www.linkedin.com/in/josephlyons1990
 
 
-<h3> View My Work! </h3>
 
-[My Portfolio](https://josephjlyons.github.io/portfolio-two-point-o/)
+[Portfolio](https://josephjlyons.github.io/portfolio-two-point-o/)
 
 <!--
 **Josephjlyons/Josephjlyons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
