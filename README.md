@@ -4,7 +4,7 @@
 ***<h1 align="center" color="red"> Joseph J Lyons </h1>***
 
 
-<h3 align="center"> UNH Coding and Programming MERN Stack Graduate </h3> <br>
+<h3 align="center"> UNH Coding and Programming Full Stack Graduate. </h3> <br>
 
 <h3 style="text-align: center"> Want to reach me?
 <br>
