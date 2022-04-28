@@ -1,38 +1,9 @@
+### Hi there 👋, I'm Joseph Lyons
+
+REACT / MONGODB / JAVASCRIPT / HTML / CSS
 
 
 
-***<h1 align="center" color="red"> Joseph J Lyons </h1>***
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/josephjlyons) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](josephjlyons90@gmail.com)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/josephjlyons1990/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://josephjlyons.github.io/portfolio-two-point-o/) 
 
 
-<h3 align="center"> UNH Coding and Programming Full Stack Graduate. </h3> <br>
-
-<h3 style="text-align: center"> Want to reach me?
-<br>
-<br>
-
- [![email](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][1] <br><br>
- [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][2] <br><br>
-
-</h3>
-
-[1]: mailto:josephjlyons90@gmail.com
-[2]: https://www.linkedin.com/in/josephlyons1990
-
-
-
-[Portfolio](https://josephjlyons.github.io/portfolio-two-point-o/)
-
-<!--
-**Josephjlyons/Josephjlyons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
