@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Joseph Lyons
 
-REACT / NODE / MONGODB / JAVASCRIPT / HTML / CSS
+REACT / NODE / MONGODB / JAVASCRIPT / HTML / CSS / SCSS
 
 
 
